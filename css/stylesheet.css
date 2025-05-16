@@ -413,8 +413,9 @@ form, ul{
     display: inline-block;
     background-image: url(../sp_main.png);
     background-size: 463px 442px;
+    background-position: -205px -219px;
     background-repeat: no-repeat;
-    box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 10%);
+    /* box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 10%); */
     margin: 2px 2px 2px;
     width: 40px;
     height: 40px;
